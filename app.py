@@ -1,10 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as nbpass
-import matplotlib.pyplot as plt
 import datetime
 import requests
-import json
 
 '''
 # Taxi Fare Prediction front

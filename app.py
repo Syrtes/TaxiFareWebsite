@@ -19,7 +19,7 @@ nbpass = st.number_input("Passenger Count", min_value=1, max_value=8)
 
 
 
-url = 'http://localhost:8000/predict_fare/'
+url = 'https://taxifare-5ciz54dinq-ew.a.run.app/predict/'
 
 
 
